@@ -139,5 +139,5 @@ defineUM <- function(uncertain = TRUE, distribution = NULL, distr_param = NULL,
       class(um) <- "MarginalCategoricalDataFrame" 
   }  
   um
-} 
+} # test2
 
